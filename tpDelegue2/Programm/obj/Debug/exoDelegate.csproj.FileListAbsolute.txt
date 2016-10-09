@@ -1,0 +1,6 @@
+c:\users\aurélia\documents\visual studio 2015\Projects\tpDelegue2\Programm\bin\Debug\Programm.exe.config
+c:\users\aurélia\documents\visual studio 2015\Projects\tpDelegue2\Programm\bin\Debug\Programm.exe
+c:\users\aurélia\documents\visual studio 2015\Projects\tpDelegue2\Programm\bin\Debug\Programm.pdb
+c:\users\aurélia\documents\visual studio 2015\Projects\tpDelegue2\Programm\obj\Debug\exoDelegate.csprojResolveAssemblyReference.cache
+c:\users\aurélia\documents\visual studio 2015\Projects\tpDelegue2\Programm\obj\Debug\Programm.exe
+c:\users\aurélia\documents\visual studio 2015\Projects\tpDelegue2\Programm\obj\Debug\Programm.pdb

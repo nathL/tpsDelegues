@@ -1,0 +1,9 @@
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\tpDelegue1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\tpDelegue1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\tpDelegue1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\tpDelegue1\WindowsFormsApplication1\obj\Debug\formulaire.csprojResolveAssemblyReference.cache
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\tpDelegue1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\tpDelegue1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\tpDelegue1\WindowsFormsApplication1\obj\Debug\formulaire.csproj.GenerateResource.Cache
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\tpDelegue1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Aurélia\Documents\Visual Studio 2015\Projects\tpDelegue1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
